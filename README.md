@@ -19,7 +19,7 @@ In Gitpod
 
 ## 🚀 Develop
 
-When the editor opened, run the following commands to start a local ICP node and deploy the canister smart contract:
+When the editor opened, run the following commands to start a local ICP nod portfolioe and deploy the canister smart contract:
 
 ```bash
 dfx start --clean # Start a local ICP node
